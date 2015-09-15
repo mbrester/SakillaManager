@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body><H1>Have you ever wondered how many Movies Nic Cage has been in?</H1>
+    <body><H2>Have you ever wondered how many Movies Nic Cage has been in?</H2>
         <form method="POST" action="MainController">
             <input type="submit" value="Find Out"/>
         </form>
